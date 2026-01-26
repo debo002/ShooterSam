@@ -1,0 +1,32 @@
+﻿# Unreal Engine - Code Only
+
+# Ignore everything by default
+*
+
+# Keep Source code
+!Source/
+!Source/**
+
+# Keep Config files
+!Config/
+!Config/**
+
+# Keep project file
+!*.uproject
+
+# Keep README
+!README.md
+
+# Keep this file
+!.gitignore
+
+# Ignore all Content except Blueprints
+Content/
+!Content/MyStuff/
+!Content/MyStuff/BluePrints/
+!Content/MyStuff/BluePrints/**
+
+# OS files
+.DS_Store
+Thumbs.db
+

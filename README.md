@@ -50,12 +50,6 @@ Source/ShooterSam/          # C++ code
 └── BT*.*                   # Behavior tree nodes
 ```
 
-## Learning Resources
-
-See documentation in project root:
-- `PRODUCTION_AUDIT_COMPLETE.md` - Code quality review
-- `FEATURE_SETUP_GUIDE.md` - Feature configuration
-- `BUG_FIX_PLAYER_DEATH.md` - Technical deep dive
 
 ## License
 
